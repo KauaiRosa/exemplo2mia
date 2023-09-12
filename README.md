@@ -1,2 +1,1 @@
-Após clonar o repositório do projeto executar : npm install
-npm i
+Após Clonar o repositório do projeito executar : npm install
